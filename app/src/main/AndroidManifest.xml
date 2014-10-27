@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.sqisland.android.graphics_demo" >
+
+  <application
+      android:allowBackup="true"
+      android:icon="@drawable/ic_launcher"
+      android:label="@string/app_name"
+      android:theme="@style/AppTheme" >
+    <activity
+        android:name=".MainActivity"
+        android:label="@string/app_name" >
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity
+        android:name=".RainbowGradientActivity"
+        android:label="@string/rainbow_gradient"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".PatternedTextActivity"
+        android:label="@string/patterned_text"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".PeekThroughActivity"
+        android:label="@string/peek_through"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".ColorMatrixActivity"
+        android:label="@string/color_matrix"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".FourColorsActivity"
+        android:label="@string/four_colors"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".PorterDuffActivity"
+        android:label="@string/porter_duff"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".EmbossMaskFilterActivity"
+        android:label="@string/emboss_mask_filter"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".BlurMaskFilterActivity"
+        android:label="@string/blur_mask_filter"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".RenderscriptBlurActivity"
+        android:label="@string/renderscript_blur"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".RenderscriptConvolutionActivity"
+        android:label="@string/renderscript_convolution"
+        android:parentActivityName=".MainActivity" />
+    <activity
+        android:name=".AboutActivity"
+        android:label="@string/about"
+        android:parentActivityName=".MainActivity" />
+  </application>
+
+</manifest>

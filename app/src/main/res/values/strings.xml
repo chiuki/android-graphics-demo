@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Graphics Demo</string>
+  <string name="original">Original</string>
+
+  <string name="rainbow_gradient">Rainbow gradient</string>
+  <string name="rainbow">Rainbow</string>
+
+  <string name="patterned_text">Patterned text</string>
+  <string name="cheetah">Cheetah</string>
+
+  <string name="peek_through">Peek through</string>
+  <string name="peek_through_help">Touch the gray area to peek</string>
+
+  <string name="color_matrix">ColorMatrix</string>
+  <string name="grayscale">Grayscale</string>
+  <string name="sepia">Sepia</string>
+  <string name="invert">Invert</string>
+  <string name="alpha_blue">Alpha blue</string>
+  <string name="alpha_pink">Alpha pink</string>
+  <string name="binary">Binary</string>
+
+  <string name="four_colors">Four colors</string>
+
+  <string name="circle_dim_around">Circle dim around</string>
+
+  <string name="porter_duff">Porter-Duff</string>
+  <string name="mask">Mask</string>
+
+  <string name="emboss_mask_filter">EmbossMaskFilter</string>
+  <string name="emboss">Emboss</string>
+  <string name="deboss">Deboss</string>
+
+  <string name="blur_mask_filter">BlurMaskFilter</string>
+
+  <string name="renderscript_blur">RenderScript blur</string>
+  <string name="blur_with_radius">Blur with radius %1$.0f</string>
+
+  <string name="renderscript_convolution">RenderScript convolution</string>
+  <string name="sharpen">Sharpen</string>
+  <string name="edge_detection">Edge detection</string>
+  <string name="box_blur">Box blur</string>
+  <string name="fuzzy_glass">Fuzzy glass</string>
+
+  <string name="about">About</string>
+  <string name="about_text">
+    <![CDATA[
+    <p>
+    Launcher icon modified from
+    <a href="http://thenounproject.com/term/bucket/47549/">Bucket by Clovis Lefranc from The Noun Project</a>.
+    </p>
+
+    <p>
+    <a href="http://www.colourlovers.com/palette/1757442/Rainbow_Connection">Rainbow Connection palette</a>
+    by Luna Rosa from COLOURlovers.
+    </p>
+
+    <p>
+    <a href="http://www.colourlovers.com/pattern/2612403/Leopoard_Skin">Leopard skin pattern</a>
+    by Nie Niez 1702 and svartedauden from COLOURlovers.
+    </p>
+
+    <p>
+    Peek through inspired by
+    <a href="http://www.curious-creature.org/2012/12/13/android-recipe-2-fun-with-shaders/">
+    Android Recipe #2, fun with shaders by Romain Guy</a>.
+    </p>
+
+    <p>
+    Debossed text from
+    <a href="http://wiresareobsolete.com/2012/04/textview-inner-shadows/">
+    TextView Inner Shadows with EmbossMaskFilter by Dave Smith</a>.
+    </p>
+
+    <p>
+    Image of Lena S&ouml;derberg is a standard image processing test image, originally from the
+    November 1972 issue of Playboy magazine.
+    </p>
+    ]]>
+  </string>
+</resources>
