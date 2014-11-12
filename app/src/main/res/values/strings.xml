@@ -27,6 +27,13 @@
   <string name="porter_duff">Porter-Duff</string>
   <string name="mask">Mask</string>
 
+  <string name="hollow_text">Hollow text</string>
+  <string name="hollow_text_character">A</string>
+  <string name="solid">Solid</string>
+  <string name="dash">Dash</string>
+  <string name="round_dash">Round dash</string>
+  <string name="triangle">Triangle</string>
+
   <string name="emboss_mask_filter">EmbossMaskFilter</string>
   <string name="emboss">Emboss</string>
   <string name="deboss">Deboss</string>

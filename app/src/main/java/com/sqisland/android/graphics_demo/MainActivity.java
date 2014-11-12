@@ -30,6 +30,7 @@ public class MainActivity extends ListActivity {
     demos.add(new Demo(this, ColorMatrixActivity.class, R.string.color_matrix));
     demos.add(new Demo(this, FourColorsActivity.class, R.string.four_colors));
     demos.add(new Demo(this, PorterDuffActivity.class, R.string.porter_duff));
+    demos.add(new Demo(this, HollowTextActivity.class, R.string.hollow_text));
     demos.add(new Demo(this, EmbossMaskFilterActivity.class, R.string.emboss_mask_filter));
     demos.add(new Demo(this, BlurMaskFilterActivity.class, R.string.blur_mask_filter));
 

@@ -40,6 +40,10 @@
         android:label="@string/porter_duff"
         android:parentActivityName=".MainActivity" />
     <activity
+        android:name=".HollowTextActivity"
+        android:label="@string/hollow_text"
+        android:parentActivityName=".MainActivity" />
+    <activity
         android:name=".EmbossMaskFilterActivity"
         android:label="@string/emboss_mask_filter"
         android:parentActivityName=".MainActivity" />

@@ -6,4 +6,6 @@
   <dimen name="text_size_huge">80sp</dimen>
 
   <dimen name="peek_through_radius">40dp</dimen>
+
+  <dimen name="dashed_text_stroke_width">8dp</dimen>
 </resources>
