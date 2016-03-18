@@ -12,6 +12,8 @@
   <string name="peek_through">Peek through</string>
   <string name="peek_through_help">Touch the gray area to peek</string>
 
+  <string name="clip_rect">Clip rect</string>
+
   <string name="color_matrix">ColorMatrix</string>
   <string name="grayscale">Grayscale</string>
   <string name="sepia">Sepia</string>

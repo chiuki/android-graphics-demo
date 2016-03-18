@@ -8,4 +8,7 @@
   <dimen name="peek_through_radius">40dp</dimen>
 
   <dimen name="dashed_text_stroke_width">8dp</dimen>
+
+  <dimen name="clip_rect_width">120dp</dimen>
+  <dimen name="clip_rect_height">40dp</dimen>
 </resources>

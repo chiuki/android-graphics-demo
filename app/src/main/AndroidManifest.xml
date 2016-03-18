@@ -28,6 +28,10 @@
         android:label="@string/peek_through"
         android:parentActivityName=".MainActivity" />
     <activity
+      android:name=".ClipRectActivity"
+      android:label="@string/clip_rect"
+      android:parentActivityName=".MainActivity" />
+    <activity
         android:name=".ColorMatrixActivity"
         android:label="@string/color_matrix"
         android:parentActivityName=".MainActivity" />

@@ -27,6 +27,7 @@ public class MainActivity extends ListActivity {
     demos.add(new Demo(this, RainbowGradientActivity.class, R.string.rainbow_gradient));
     demos.add(new Demo(this, PatternedTextActivity.class, R.string.patterned_text));
     demos.add(new Demo(this, PeekThroughActivity.class, R.string.peek_through));
+    demos.add(new Demo(this, ClipRectActivity.class, R.string.clip_rect));
     demos.add(new Demo(this, ColorMatrixActivity.class, R.string.color_matrix));
     demos.add(new Demo(this, FourColorsActivity.class, R.string.four_colors));
     demos.add(new Demo(this, PorterDuffActivity.class, R.string.porter_duff));
