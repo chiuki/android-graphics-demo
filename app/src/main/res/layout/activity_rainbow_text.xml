@@ -10,4 +10,4 @@
     android:textColor="@android:color/black"
     android:textSize="@dimen/text_size_huge"
     android:textStyle="bold"
-    tools:context=".RainbowTextActivity"/>
+    tools:context=".RainbowGradientActivity"/>
